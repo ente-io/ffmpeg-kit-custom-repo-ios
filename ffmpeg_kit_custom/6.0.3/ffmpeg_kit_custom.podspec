@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = 'FFmpeg Kit Bundled for Flutter'
   s.description      = 'A Flutter plugin for running FFmpeg and FFprobe commands.'
   s.homepage         = 'https://github.com/ente-io/ffmpeg-kit-forked'
-  s.license      = { :type => "GPL-3.0", :file => "ffmpegkit.xcframework/ios-arm64/ffmpegkit.framework/LICENSE" }
+  s.license          = 'GPL-3.0'
   s.author           = { 'Prateek' => 'prtksunal@gmail.com' }
 
   s.platform            = :ios
