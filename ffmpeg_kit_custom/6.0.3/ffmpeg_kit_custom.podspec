@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "12.1"
 
   s.source              = {
-    :http => "https://github.com/ente-io/ffmpeg-kit-forked/releases/download/v6.0.0/ffmpegkit-bundled.xcframework.zip"
+    :http => "https://github.com/ente-io/ffmpeg-kit-forked/releases/download/v6.0.3/ffmpegkit-bundled.xcframework.zip"
   }
 
   s.libraries = [
